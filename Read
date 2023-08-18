@@ -1,0 +1,3 @@
+Dataset is taken from scikit learn datasets which is 8x8 image pixel values for each digit.
+I have implemented KNN algorithm for different K values and found an optimum K value with highest accuracy. 
+Plotted a confusion matric to visualize the performance.
